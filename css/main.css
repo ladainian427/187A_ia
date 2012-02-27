@@ -1,6 +1,6 @@
 .container[role="main"] {
-        padding-bottom: 200px;
-        border: 1px solid #333;
+        padding-bottom: 100px;
+       // border: 1px dashed #333;
         
     }
     
@@ -11,7 +11,9 @@
         right: 0;
   		border: 1px solid #333;
   		background-color: red;
-    	
+    	text-align: center;
+    	margin-left: auto;
+    	margin-right: auto;
     }
 
 .bottombar.bottombar-inner{
@@ -54,5 +56,5 @@ padding-bottom: 5px;
 	background-image: url(graphics/footer_bg.gif);
 	background-position: left;
 	background-repeat: repeat;
-	background-image: URL("http://placekitten.com/1200/120");
+	
 }
